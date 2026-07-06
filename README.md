@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/devangshupandey2025-stack/LeetCodeProblems/tree/master/0380-insert-delete-getrandom-o1) |
+| [1288-remove-covered-intervals](https://github.com/devangshupandey2025-stack/LeetCodeProblems/tree/master/1288-remove-covered-intervals) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/devangshupandey2025-stack/LeetCodeProblems/tree/master/0380-insert-delete-getrandom-o1) |
+## Sorting
+|  |
+| ------- |
+| [1288-remove-covered-intervals](https://github.com/devangshupandey2025-stack/LeetCodeProblems/tree/master/1288-remove-covered-intervals) |
 <!---LeetCode Topics End-->
