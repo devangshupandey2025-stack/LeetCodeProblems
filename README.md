@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/devangshupandey2025-stack/LeetCodeProblems/tree/master/0380-insert-delete-getrandom-o1) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/devangshupandey2025-stack/LeetCodeProblems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Design
 |  |
 | ------- |
