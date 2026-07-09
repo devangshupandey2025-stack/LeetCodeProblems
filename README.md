@@ -8,10 +8,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/devangshupandey2025-stack/LeetCodeProblems/tree/master/0380-insert-delete-getrandom-o1) |
 | [1288-remove-covered-intervals](https://github.com/devangshupandey2025-stack/LeetCodeProblems/tree/master/1288-remove-covered-intervals) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/devangshupandey2025-stack/LeetCodeProblems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/devangshupandey2025-stack/LeetCodeProblems/tree/master/0380-insert-delete-getrandom-o1) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/devangshupandey2025-stack/LeetCodeProblems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Math
 |  |
 | ------- |
@@ -29,4 +31,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/devangshupandey2025-stack/LeetCodeProblems/tree/master/1288-remove-covered-intervals) |
+## Binary Search
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/devangshupandey2025-stack/LeetCodeProblems/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Union-Find
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/devangshupandey2025-stack/LeetCodeProblems/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Graph Theory
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/devangshupandey2025-stack/LeetCodeProblems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
