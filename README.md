@@ -39,10 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/devangshupandey2025-stack/LeetCodeProblems/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/devangshupandey2025-stack/LeetCodeProblems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
 | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/devangshupandey2025-stack/LeetCodeProblems/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/devangshupandey2025-stack/LeetCodeProblems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## String
 |  |
@@ -52,4 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/devangshupandey2025-stack/LeetCodeProblems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/devangshupandey2025-stack/LeetCodeProblems/tree/master/2685-count-the-number-of-complete-components) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/devangshupandey2025-stack/LeetCodeProblems/tree/master/2685-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
