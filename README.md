@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/devangshupandey2025-stack/LeetCodeProblems/tree/master/0380-insert-delete-getrandom-o1) |
 | [1288-remove-covered-intervals](https://github.com/devangshupandey2025-stack/LeetCodeProblems/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/devangshupandey2025-stack/LeetCodeProblems/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/devangshupandey2025-stack/LeetCodeProblems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/devangshupandey2025-stack/LeetCodeProblems/tree/master/0380-insert-delete-getrandom-o1) |
+| [1331-rank-transform-of-an-array](https://github.com/devangshupandey2025-stack/LeetCodeProblems/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/devangshupandey2025-stack/LeetCodeProblems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Math
 |  |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/devangshupandey2025-stack/LeetCodeProblems/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/devangshupandey2025-stack/LeetCodeProblems/tree/master/1331-rank-transform-of-an-array) |
 ## Binary Search
 |  |
 | ------- |
