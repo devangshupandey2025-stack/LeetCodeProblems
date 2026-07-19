@@ -1,17 +1,20 @@
 class Solution:
     def smallestSubsequence(self, s: str) -> str:
-        last = {c: i for i, c in enumerate(s)}
-        stack = []
-        seen = set()
+        last = {}
+        for i in range(len(s)):
+            last[s[i]] = i
 
-        for i, c in enumerate(s):
-            if c in seen:
+        k = []
+        seen = {}
+
+        for i in range(len(s)):
+            if s[i] in seen:
                 continue
 
-            while stack and c < stack[-1] and last[stack[-1]] > i:
-                seen.remove(stack.pop())
+            while len(k) > 0 and k[-1] > s[i] and last[k[-1]] > i:
+                seen.pop(k.pop())
 
-            stack.append(c)
-            seen.add(c)
+            k.append(s[i])
+            seen[s[i]] = True
 
-        return "".join(stack)
+        return "".join(k)
