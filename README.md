@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/devangshupandey2025-stack/LeetCodeProblems/tree/master/0205-isomorphic-strings) |
+| [0214-shortest-palindrome](https://github.com/devangshupandey2025-stack/LeetCodeProblems/tree/master/0214-shortest-palindrome) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/devangshupandey2025-stack/LeetCodeProblems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/devangshupandey2025-stack/LeetCodeProblems/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/devangshupandey2025-stack/LeetCodeProblems/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -123,4 +124,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/devangshupandey2025-stack/LeetCodeProblems/tree/master/3513-number-of-unique-xor-triplets-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/devangshupandey2025-stack/LeetCodeProblems/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/devangshupandey2025-stack/LeetCodeProblems/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/devangshupandey2025-stack/LeetCodeProblems/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
