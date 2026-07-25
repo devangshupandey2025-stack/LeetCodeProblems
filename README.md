@@ -147,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/devangshupandey2025-stack/LeetCodeProblems/tree/master/0299-bulls-and-cows) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/devangshupandey2025-stack/LeetCodeProblems/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
