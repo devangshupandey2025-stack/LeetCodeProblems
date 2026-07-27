@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/devangshupandey2025-stack/LeetCodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0205-isomorphic-strings](https://github.com/devangshupandey2025-stack/LeetCodeProblems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/devangshupandey2025-stack/LeetCodeProblems/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/devangshupandey2025-stack/LeetCodeProblems/tree/master/0299-bulls-and-cows) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/devangshupandey2025-stack/LeetCodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0205-isomorphic-strings](https://github.com/devangshupandey2025-stack/LeetCodeProblems/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/devangshupandey2025-stack/LeetCodeProblems/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/devangshupandey2025-stack/LeetCodeProblems/tree/master/0242-valid-anagram) |
@@ -161,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/devangshupandey2025-stack/LeetCodeProblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/devangshupandey2025-stack/LeetCodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
