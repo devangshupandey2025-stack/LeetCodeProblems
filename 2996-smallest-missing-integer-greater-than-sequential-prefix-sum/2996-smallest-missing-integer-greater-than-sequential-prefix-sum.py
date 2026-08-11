@@ -1,5 +1,5 @@
 class Solution:
-    def missingInteger(self, nums: list[int]) -> int:
+    def missingInteger(self, nums: List[int]) -> int:
         total = nums[0]
 
         for a, b in pairwise(nums):
@@ -12,5 +12,5 @@ class Solution:
 
         while total in num_set:
             total += 1
-
+        
         return total
